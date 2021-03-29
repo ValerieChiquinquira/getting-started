@@ -44,9 +44,12 @@ https://classic.yarnpkg.com/en/docs/install#debian-stable
 
 - This allow for the app to be seen on your local host, http://127.0.0.1:3000
 
+![image](https://user-images.githubusercontent.com/70295448/112773525-59746000-9004-11eb-9f0b-e5b71742dbf2.png)
+
 - Using the local host will allow you to add, edit, delete articles. As well as add, edit, delete comments.
 
 ![image](https://user-images.githubusercontent.com/70295448/112772997-12856b00-9002-11eb-8832-ed5345b1d3e5.png)
+
 
 - To access the console, use the following cmd:
 
